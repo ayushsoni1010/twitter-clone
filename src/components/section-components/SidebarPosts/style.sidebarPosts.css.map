@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style.sidebarPosts.scss"
+    ],
+    "names": [],
+    "file": "style.sidebarPosts.css"
+}

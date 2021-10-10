@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "style.newTweet.scss"
+    ],
+    "names": [],
+    "file": "style.newTweet.css"
+}
