@@ -4,6 +4,7 @@ import './App.css';
 import './styles/index.css';
 import Header from './components/section-components/Header';
 import PrimaryButton from './components/widgets/Buttons/PrimaryButton';
+import Navbar from './views/Navbar';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         lastSecondIcon="fas fa-arrow-circle-down"
       /> */}
       {/* <PrimaryButton  value="Home" /> */}
+      <Navbar/>
     </div>
   );
 }
